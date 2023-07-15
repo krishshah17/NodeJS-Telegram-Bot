@@ -14,6 +14,7 @@ And thus my bot FridayAura was born, you ask what AURA stands for, well Artifici
 ### Prerequisties
 
 - You need to have NodeJS installed, you can check this by entering node -v
+<img width="696" alt="Screenshot 2023-07-14 at 11 44 56 PM" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/adad27ff-e22b-4136-9884-63499bbaf77c">
 - You need to have a telegram account
 - You need to have a firebase account
 
@@ -23,6 +24,8 @@ And thus my bot FridayAura was born, you ask what AURA stands for, well Artifici
 ```
  npm init -y
  ```
+<img width="1512" alt="Screenshot 2023-07-15 at 12 05 26 AM" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/bf1d2821-fbd8-4c04-bed0-f75b354c73da">
+
 - We need to install the required libraries that are the firebase as well as telegram libraries.
 - To do this we can run
 ```
@@ -41,9 +44,15 @@ npm install nodemon node-telegram-bot-api firebase-admin
 ### Setting up FireBase
 
 - Create a new project
+<img width="1512" alt="Screenshot 2023-07-15 at 12 11 04 AM" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/79c60210-a3ad-4198-9cb8-61af51edff16">
 - Enter your project name
+<img width="1512" alt="Screenshot 2023-07-15 at 12 11 26 AM" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/d2422ce9-21cc-4869-af95-13f21d4f2b60">
 - As we don't need Google Analytics we can disable it
+<img width="1512" alt="Screenshot 2023-07-15 at 12 12 01 AM" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/6bc51e12-9b2f-4624-a468-7bbb2b82aad9">
+
 - Create a new firestore database under Build category
+<img width="1512" alt="Screenshot 2023-07-15 at 12 13 25 AM" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/400c1ff4-dc9d-4d8d-8391-3293469051ab">
+
 - Start in test mode and choose your preffered location
 - Your new FireStore database is ready and looks like this
 - We need to modify the rules to allow our bot to perfrom CRUD functions (Create, Read, Update, Delete)
