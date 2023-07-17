@@ -27,23 +27,18 @@ npm install nodemon node-telegram-bot-api firebase-admin
 - As you can see, to create a new bot we need to enter /newbot
 - Follow the instructions and give a name to your bot, I named my bot FridayAuraBot
 - The BotFather responds with vital information
-  <img width="1214" alt="Telegram Bot Token" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/86bb9692-9362-4eeb-8bcb-ffc5744fe861">
 - Safely store your bot token to use the HTTP API
 ### Setting up FireBase
 - Create a new project
 - Enter your project name
 - As we don't need Google Analytics we can disable it
 - Create a new firestore database under Build category
-<img width="1512" alt="Firebase4" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/400c1ff4-dc9d-4d8d-8391-3293469051ab">
 - Start in test mode and choose your preffered location
 - Your new FireStore database is ready
 - We need to modify the rules to allow our bot to perfrom CRUD functions (Create, Read, Update, Delete)
 - We remove the if statement and publish the changes
-<img width="1512" alt="Firebase7" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/ac68c790-cd75-4307-b4d7-d56e6fd68f05">
 - Going back to the homepage of the project, we can add a web app to firebase
-<img width="1512" alt="Firebase8" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/2349a98a-0ba1-4f7d-b1a3-59a2f60f195f">
 - Again from the homepage, we go to the project settings of the web app we just added, from here we create a new service account and generate a private key
-<img width="1512" alt="Firebase9" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/48870681-014c-4d26-af3d-ba456ab1c4eb">
 - Your json file with the key is downloaded
 ### Code
 - Clone the GitHub Repo
