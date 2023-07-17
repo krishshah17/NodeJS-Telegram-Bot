@@ -56,9 +56,6 @@ Save everything and finally in the terminal type,
 ```
 node index.js
 ```
-### Screenshots
-<img width="1213" alt="Screenshot 2023-07-17 at 11 43 00 PM" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/4869b58d-631a-485e-b521-6b4c49e1d659">
-<img width="1211" alt="Screenshot 2023-07-17 at 11 43 10 PM" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/17c64c51-f763-4b3e-8c36-64618815ca71">
 Note: For your Bot to work index.js needs to be running, you could host your backend code too (future updates)
 ### Future Enhancements:
 - Always active (host on azure?)
