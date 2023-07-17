@@ -14,9 +14,6 @@ And thus my bot FridayAura was born, you ask what AURA stands for, well Artifici
 ### Prerequisties
 
 - You need to have NodeJS installed, you can check this by entering node -v
-<img width="696" alt="node -v" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/adad27ff-e22b-4136-9884-63499bbaf77c">
-
-
 - You need to have a telegram account
 - You need to have a firebase account
 
@@ -26,9 +23,6 @@ And thus my bot FridayAura was born, you ask what AURA stands for, well Artifici
 ```
  npm init -y
  ```
-
-<img width="1512" alt="npm init" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/bf1d2821-fbd8-4c04-bed0-f75b354c73da">
-
 - We need to install the required libraries that are the firebase as well as telegram libraries.
 - To do this we can run
 ```
@@ -58,15 +52,11 @@ npm install nodemon node-telegram-bot-api firebase-admin
 
 - As we don't need Google Analytics we can disable it
   
-<img width="1512" alt="Firebase3" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/6bc51e12-9b2f-4624-a468-7bbb2b82aad9">
-
 - Create a new firestore database under Build category
   
 <img width="1512" alt="Firebase4" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/400c1ff4-dc9d-4d8d-8391-3293469051ab">
 
 - Start in test mode and choose your preffered location
-
-<img width="1512" alt="Firebase5" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/f2db11dc-9a2c-41e2-8813-9a2132e799a7">
 
 - Your new FireStore database is ready and looks like this
   <img width="1512" alt="Firebase6" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/1bdcebcc-2fa2-4f16-a3fb-08044182c9f4">
@@ -104,9 +94,7 @@ Save everything and finally in the terminal type,
 node index.js
 ```
 ### Screenshots
-<img width="1212" alt="Screenshot 2023-07-15 at 10 07 52 AM" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/4c293c17-937f-4dbb-ac61-ec81185dd775">
-<img width="1210" alt="Screenshot 2023-07-15 at 11 16 14 AM" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/4cb3060f-f550-4dba-af39-71b4568de26e">
-<img width="1512" alt="Screenshot 2023-07-15 at 11 16 27 AM" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/a97b7f20-067b-4e83-9d1f-37db884ac0e2">
+
 <img width="1213" alt="Screenshot 2023-07-17 at 11 43 00 PM" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/4869b58d-631a-485e-b521-6b4c49e1d659">
 <img width="1211" alt="Screenshot 2023-07-17 at 11 43 10 PM" src="https://github.com/krishshah17/NodeJS-Telegram-Bot/assets/26605210/17c64c51-f763-4b3e-8c36-64618815ca71">
 
